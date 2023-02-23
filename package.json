@@ -10,6 +10,7 @@
     "tsconfig": "^7.0.0"
   },
   "dependencies": {
-    "@koa/router": "^12.0.0"
+    "@koa/router": "^12.0.0",
+    "pino": "^8.11.0"
   }
 }
